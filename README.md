@@ -14,10 +14,10 @@ A React-based interactive map demo for visualizing and managing delivery zones, 
 ### Filter by Zone
 ![Filter by zone](screenshots/03_filter-by-zone.png)
 
-### All Zones with Vendors
+### All zones vendor info popup when selecting location icon
 ![All zones vendor info popup when selecting location icon](screenshots/04_vendor-info-popup.png)
 
-### Zone View with Vendors
+### See particular zone with vendors inside the zone
 ![See particular zone with vendors inside the zone](screenshots/05_cancel-filter-see-particular-zone.png)
 
 ### Filter by Pincode
