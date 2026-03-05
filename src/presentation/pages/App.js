@@ -25,6 +25,7 @@ function FilterPanel({ open, onClose, zoneData, pinZoneData, selectedPincodes, s
   const [tempPincode, setTempPincode] = useState(selectedPincode);
   const [tempZoneIds, setTempZoneIds] = useState(selectedZoneIds);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     if (open) {
       setTempPincodes(selectedPincodes);
