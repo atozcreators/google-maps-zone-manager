@@ -51,7 +51,7 @@ A React-based interactive map demo for visualizing and managing delivery zones, 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/google-map-zone.git
+git clone https://github.com/atozcreators/google-maps-zone-manager.git
 cd google-map-zone
 ```
 
